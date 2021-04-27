@@ -1,4 +1,8 @@
-# ```Pagina Web-FRPropiedades```
+# ```diff  Pagina Web-FRPropiedades ```
+
+```diff
+¡Este color es muy rojo!
+```
 
 # Pagina web de Propiedades
 
